@@ -1,7 +1,7 @@
 import ee.gui.AppGUI;
 
 import javax.swing.*;
-import java.awt.*;
+
 
 public class AppFrame extends JFrame {
 
